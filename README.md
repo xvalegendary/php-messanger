@@ -1,4 +1,4 @@
-# simple php messanger front & backend
+# simple php messanger front & backend &middot; ![xvalegendary](https://img.shields.io/badge/dev-xvalegendary-red)
 
 # used:
 ```
